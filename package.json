@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arenderutsa/NinevaOS/issues"
   },
-  "homepage": "https://github.com/arenderutsa/NinevaOS#readme"
+  "homepage": "https://github.com/arenderutsa/NinevaOS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
